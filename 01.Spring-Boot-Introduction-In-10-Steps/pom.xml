@@ -6,7 +6,7 @@
 	<groupId>com.in28minutes.springboot.basics</groupId>
 	<artifactId>springboot-in-10-steps</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>springboot-in-10-steps</name>
 	<description>Demo project for Spring Boot</description>
